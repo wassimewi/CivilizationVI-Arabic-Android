@@ -1,55 +1,53 @@
-# Civilization VI Arabic – Android
+# التعريب العربي للعبة Civilization VI – أندرويد
 
-An independent Arabic localization project for **Civilization VI on Android**, maintained by Wassime Wi.
+مشروع مجتمعي مستقل يهدف إلى توفير تجربة لعب باللغة العربية للعبة **Civilization VI على أجهزة أندرويد**، مع توثيق خطوات التثبيت والتوافق والمشاكل المعروفة.
 
-The goal is to make the game more accessible to Arabic-speaking players and to document the localization, installation process, compatibility notes, and future improvements.
+> **مشروع غير رسمي:** هذا المشروع غير تابع لشركات 2K أو Firaxis Games أو Aspyr Media، ولم تتم رعايته أو اعتماده من قبلها. لعبة Civilization VI ومحتوياتها الأصلية ملك لأصحاب الحقوق المعنيين.
 
-> **Unofficial community project.** This project is not affiliated with, endorsed by, or sponsored by 2K, Firaxis Games, Aspyr Media, or any other rights holder. Civilization VI and its original game content are the property of their respective owners.
+## حالة المشروع
 
-## Project status
+- نسخة التعريب العربي: قيد الإعداد والتطوير
+- ملف APK: قد يُتاح بشكل منفصل إذا كان نشره مسموحاً قانونياً
+- ملفات OBB وبيانات اللعبة: قد تُتاح بشكل منفصل إذا كان نشرها مسموحاً قانونياً
+- الشروحات والتوثيق: متوفرة في مجلد [docs](docs/)
 
-- Arabic localization build: in preparation
-- Android APK: will be provided separately by the maintainer, if authorized for redistribution
-- OBB/data package: will be provided separately by the maintainer, if authorized for redistribution
-- Installation and troubleshooting documentation: available in [docs](docs/)
+## التحميل
 
-## Downloads
+عند نشر إصدار جديد، ستجد معلوماته وملفاته المسموح بنشرها في صفحة [الإصدارات على GitHub](../../releases).
 
-When a release is published, check the **[GitHub Releases](../../releases)** page for its version notes and authorized downloadable files.
+حمّل الملفات من صفحة الإصدارات الرسمية لهذا المشروع فقط، وتحقق من اسم الإصدار وملاحظاته وبصمات الملفات (SHA-256) إن توفرت.
 
-Do not download or install files from unofficial mirrors. Always check the release notes, file names, and checksums published by the maintainer.
+## دليل التثبيت
 
-## Installation
+راجع [دليل التثبيت](docs/INSTALLATION.md)، وكذلك:
 
-See **[Installation Guide](docs/INSTALLATION.md)**. Requirements and troubleshooting are documented separately:
+- [المتطلبات والتوافق](docs/REQUIREMENTS.md)
+- [حل المشاكل الشائعة](docs/TROUBLESHOOTING.md)
+- [الإشعارات القانونية وحقوق الملكية](docs/LEGAL-NOTICES.md)
 
-- [Requirements](docs/REQUIREMENTS.md)
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
-- [Legal and third-party notices](docs/LEGAL-NOTICES.md)
+## دعم المشروع والتبرع
 
-## Donations
+إذا أعجبك المشروع وتريد المساهمة في استمرار الترجمة والاختبار والتوثيق، يمكنك تقديم تبرع اختياري عبر إحدى الوسيلتين:
 
-If this project has been useful to you and you would like to support continued translation, testing, and documentation work, you can make a voluntary donation:
+- [التبرع عبر PayPal](https://www.paypal.com/ncp/payment/LAUXDTY7AJ87U)
+- [التبرع بالعملات الرقمية عبر NOWPayments](https://nowpayments.io/donation/matrol)
 
-- [Donate with PayPal](https://www.paypal.com/ncp/payment/LAUXDTY7AJ87U)
-- [Donate with cryptocurrency (NOWPayments)](https://nowpayments.io/donation/matrol)
+التبرع اختياري ولا يمنحك ترخيصاً للعبة أو لأي محتوى تابع لطرف ثالث، ولا يُعدّ مقابلاً للحصول على ملفات محمية بحقوق النشر.
 
-Donations are optional and do not provide a license to Civilization VI or any third-party content. Please do not send payment in exchange for copyrighted game files.
+## المساهمة والإبلاغ عن الأخطاء
 
-## Contributions and feedback
+نرحب بتصحيحات اللغة العربية، والإبلاغ عن الأخطاء، وملاحظات التثبيت والتوافق. يرجى فتح Issue في GitHub وإرفاق المعلومات التالية:
 
-Arabic language corrections, typo reports, installation feedback, and compatibility reports are welcome. Please open a GitHub Issue and include:
+- طراز جهاز أندرويد وإصدار النظام
+- إصدار اللعبة، إن كان معروفاً
+- خطوات إعادة ظهور المشكلة
+- صور أو سجلات توضح المشكلة، بعد إزالة أي معلومات شخصية
 
-- Android device model and Android version
-- Game version/build, if known
-- Steps to reproduce the issue
-- Screenshots or logs, after removing personal information
+## الشكر والتقدير
 
-## Credits
+- **Wassime Wi** — إدارة المشروع والدمج والاختبار والهوية البصرية الأصلية للمشروع
+- **Firaxis Games / 2K / Aspyr Media** — أصحاب الحقوق للعبة Civilization VI ومحتوياتها الأصلية
 
-- **Wassime Wi** — project maintainer, integration, testing, and original project branding
-- **Firaxis Games / 2K / Aspyr Media** — respective owners of Civilization VI and its original game content
+## إخلاء المسؤولية
 
-## Disclaimer
-
-This is an independent fan localization project. All third-party trademarks, game code, artwork, audio, and other original game materials remain the property of their respective owners. This repository should contain only materials the project contributors are authorized to distribute.
+هذا مشروع تعريب جماهيري مستقل وغير رسمي. جميع العلامات التجارية وأسماء اللعبة والبرمجيات والرسومات والصوتيات والمحتويات الأصلية التابعة لأطراف أخرى تبقى ملكاً لأصحابها. يجب ألا يحتوي هذا المستودع إلا على المواد التي يملك المساهمون حق نشرها أو توزيعها.
