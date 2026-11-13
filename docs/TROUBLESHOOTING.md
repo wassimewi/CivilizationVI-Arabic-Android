@@ -1,30 +1,30 @@
-# Troubleshooting
+# حل المشاكل الشائعة
 
-## Game does not install
+## تعذّر تثبيت اللعبة
 
-- Confirm that the APK is intended for your Android version and device architecture.
-- If updating an existing installation, verify that the APK was signed with the same signing certificate as the installed app.
-- Do not uninstall the game until you have backed up your data and understand the consequences.
+- تأكد من أن ملف APK مناسب لإصدار أندرويد ومعمارية جهازك.
+- إذا كنت تحدّث نسخة مثبتة، فتحقق من أن ملف APK الجديد موقّع بشهادة التوقيع نفسها المستخدمة في النسخة المثبتة.
+- لا تحذف اللعبة قبل نسخ بياناتك احتياطياً والتأكد من عواقب حذفها.
 
-## Game crashes or closes during startup
+## اللعبة تتوقف أو تنهار عند التشغيل
 
-- Check that the game version matches the localization release.
-- Restore the original files from your backup.
-- Reboot the device and test the unmodified game.
-- Report the Android version, device model, and relevant error details in a GitHub Issue.
+- تحقق من تطابق إصدار اللعبة مع إصدار التعريب.
+- استعد الملفات الأصلية من النسخة الاحتياطية.
+- أعد تشغيل الجهاز واختبر اللعبة دون ملفات التعريب.
+- أبلغ عن المشكلة في GitHub مع ذكر إصدار أندرويد وطراز الجهاز ورسالة الخطأ إن توفرت.
 
-## Arabic text is missing or displayed incorrectly
+## النصوص العربية لا تظهر أو تظهر بشكل غير صحيح
 
-- Confirm that you applied the files from one complete, matching release.
-- Check the release notes for known limitations.
-- Include a screenshot and describe the menu or screen where the issue occurs.
+- تأكد من أنك استخدمت ملفات إصدار واحد متكامل ومتوافق.
+- راجع ملاحظات الإصدار لمعرفة القيود أو المشاكل المعروفة.
+- أرفق صورة للشاشة وحدد القائمة أو الصفحة التي تظهر فيها المشكلة.
 
-## Downloads or files appear incomplete
+## الملفات التي تم تنزيلها تبدو ناقصة أو تالفة
 
-- Download again from the official GitHub Releases page.
-- Compare SHA-256 checksums if the release provides them.
-- Do not install a file whose size or checksum does not match the release information.
+- أعد التنزيل من صفحة الإصدارات الرسمية على GitHub.
+- قارن بصمة SHA-256 إذا كانت متوفرة في ملاحظات الإصدار.
+- لا تثبّت أي ملف لا يطابق حجمه أو بصمته المعلومات المنشورة.
 
-## Before opening an issue
+## قبل فتح بلاغ
 
-Include your device model, Android version, game version, localization release tag, reproduction steps, and relevant screenshots or logs. Remove personal information from logs.
+أرفق طراز الجهاز وإصدار أندرويد وإصدار اللعبة ورقم إصدار التعريب وخطوات إعادة ظهور المشكلة وصوراً أو سجلات مناسبة. احذف أي معلومات شخصية من السجلات قبل نشرها.
