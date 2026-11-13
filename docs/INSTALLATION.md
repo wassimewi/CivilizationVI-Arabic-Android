@@ -1,30 +1,30 @@
-# Android Installation Guide
+# دليل التثبيت على أندرويد
 
-This guide describes the general installation process. Exact steps may change between game builds; always follow the instructions attached to the specific release.
+يوضح هذا الدليل الخطوات العامة للتثبيت. قد تختلف الخطوات الدقيقة حسب إصدار اللعبة؛ لذلك اتبع دائماً التعليمات المرفقة مع إصدار التعريب الذي تستخدمه.
 
-## Before you begin
+## قبل البدء
 
-1. Obtain a legitimate copy of Civilization VI for Android through an authorized source.
-2. Check the release notes for the supported game version and Android requirements.
-3. Back up your game data and saves before changing files.
-4. Download project files only from the official GitHub Releases page linked in this repository.
+1. احصل على نسخة أصلية ومرخصة من لعبة Civilization VI لنظام أندرويد من مصدر رسمي أو معتمد.
+2. تحقق من إصدار اللعبة المدعوم في ملاحظات إصدار التعريب.
+3. أنشئ نسخة احتياطية من بيانات اللعبة وملفات الحفظ قبل إجراء أي تعديل.
+4. نزّل ملفات المشروع من صفحة الإصدارات الرسمية على GitHub فقط.
 
-## Install
+## خطوات التثبيت
 
-1. Read the release notes completely.
-2. Confirm that your installed game version matches the version supported by the localization release.
-3. Follow the release-specific instructions for applying the localization files to your own game installation.
-4. Launch the game and verify the language, menus, and in-game text.
-5. If the game fails to start, restore your backup before trying again.
+1. اقرأ ملاحظات الإصدار كاملة قبل البدء.
+2. تأكد من أن إصدار لعبتك يطابق الإصدار الذي يدعمه التعريب.
+3. اتبع التعليمات الخاصة بالإصدار لتطبيق ملفات التعريب على نسخة اللعبة الموجودة لديك.
+4. شغّل اللعبة وتحقق من ظهور اللغة العربية في القوائم والنصوص داخل اللعبة.
+5. إذا لم تعمل اللعبة، استعد النسخة الاحتياطية قبل تجربة أي خطوات أخرى.
 
-## Important
+## ملاحظات مهمة
 
-- Do not mix files from different game versions.
-- Never share your signing keystore or its passwords.
-- Keep an untouched backup of any original files you modify.
-- This project is unofficial and does not replace ownership or licensing requirements for the game.
-- Only download APK/OBB packages from this repository if the maintainer has confirmed that their redistribution is authorized.
+- لا تخلط ملفات مأخوذة من إصدارات مختلفة للعبة أو التعريب.
+- لا تشارك ملف مفتاح التوقيع (keystore) أو كلمة المرور الخاصة به.
+- احتفظ بنسخة أصلية من كل ملف تقوم بتعديله.
+- هذا المشروع غير رسمي ولا يمنحك حق امتلاك اللعبة أو استخدامها دون ترخيص.
+- لا تحمّل ملفات APK أو OBB من هذا المستودع إلا إذا أكد المشرف أن إعادة توزيعها مسموح بها.
 
-## Reporting an installation problem
+## الإبلاغ عن مشكلة في التثبيت
 
-Open a GitHub Issue and include your device model, Android version, game version, the exact step that failed, and any relevant error message. Do not include personal data or account credentials.
+افتح Issue في GitHub، واذكر طراز الجهاز وإصدار أندرويد وإصدار اللعبة والخطوة التي فشلت ورسالة الخطأ إن وجدت. لا ترفق بياناتك الشخصية أو معلومات تسجيل الدخول.
