@@ -1,10 +1,11 @@
-# Changelog
+# سجل التغييرات
 
-All notable project changes will be documented here.
+يتم هنا توثيق التغييرات المهمة في المشروع.
 
-## Unreleased
+## قيد التطوير
 
-- Initial public project documentation.
-- Added Android installation, requirements, and troubleshooting guides.
-- Added PayPal and NOWPayments donation links.
-- Release downloads and tested compatibility details are pending maintainer publication.
+- نشر التوثيق الأولي للمشروع.
+- إضافة دليل التثبيت ومتطلبات التشغيل والتوافق.
+- إضافة دليل حل المشاكل الشائعة.
+- إضافة روابط التبرع عبر PayPal وNOWPayments.
+- لم تُنشر بعد تفاصيل التوافق النهائية أو ملفات إصدار رسمي؛ سيتم تحديثها عند جاهزيتها.
