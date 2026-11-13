@@ -1,23 +1,23 @@
-# Legal and Third-Party Notices
+# الإشعارات القانونية وحقوق الملكية
 
-## Independent project
+## مشروع مستقل
 
-Civilization VI Arabic – Android is an independent fan localization project. It is not affiliated with, endorsed by, or sponsored by 2K, Firaxis Games, Aspyr Media, or their affiliates.
+مشروع تعريب Civilization VI لنظام أندرويد هو مشروع جماهيري مستقل. لا يتبع شركات 2K أو Firaxis Games أو Aspyr Media أو الشركات التابعة لها، ولم تتم رعايته أو اعتماده من قبلها.
 
-## Third-party intellectual property
+## حقوق الملكية الفكرية للأطراف الأخرى
 
-Civilization VI, its name, logos, software, artwork, audio, text, and other game materials are owned by their respective rights holders. All third-party rights are reserved.
+اسم Civilization VI وشعاراتها وبرمجياتها ورسوماتها وصوتياتها ونصوصها وسائر محتويات اللعبة مملوكة لأصحاب الحقوق المعنيين. جميع حقوقهم محفوظة.
 
-This repository is intended for original project documentation, original branding, and localization or patch materials that the contributors are authorized to distribute. Do not upload the original game APK, OBB, proprietary assets, or other copyrighted materials unless you have explicit permission from the relevant rights holders.
+هذا المستودع مخصص لتوثيق المشروع والمواد الأصلية التي أنشأها المساهمون، وملفات التعريب أو التصحيحات التي يحق للمساهمين توزيعها. يُمنع رفع ملف اللعبة الأصلي APK أو OBB أو الملفات المستخرجة والمحتويات المحمية بحقوق النشر ما لم تحصل على إذن صريح من أصحاب الحقوق المعنيين.
 
-## No transfer of game rights
+## لا يمنح المشروع حقوقاً للعبة
 
-Downloading this project does not grant a license to Civilization VI or any third-party content. Users must obtain and use the game through authorized channels and comply with the applicable terms.
+تنزيل هذا المشروع لا يمنحك ترخيصاً للعبة Civilization VI أو لأي محتوى تابع لطرف ثالث. يجب على المستخدم الحصول على اللعبة واستخدامها عبر القنوات المعتمدة والالتزام بشروط الاستخدام ذات الصلة.
 
-## Donations
+## التبرعات
 
-Donations are voluntary support for the maintainer's independent translation, testing, and documentation work. A donation does not purchase or unlock the game and is not payment for third-party copyrighted materials.
+التبرعات اختيارية وتهدف إلى دعم عمل المشرف المستقل في الترجمة والاختبار والتوثيق. لا تُعدّ التبرعات شراءً للعبة أو ترخيصاً لها، ولا تمثل مقابلاً للحصول على ملفات محمية بحقوق النشر.
 
-## Contact and takedown requests
+## التواصل وطلبات إزالة المحتوى
 
-For project-related corrections, use GitHub Issues. Rights holders or authorized representatives who have concerns about material in this repository may contact the repository owner through GitHub.
+للاقتراحات والتصحيحات المتعلقة بالمشروع، استخدم Issues في GitHub. ويمكن لأصحاب الحقوق أو ممثليهم المعتمدين التواصل مع مالك المستودع عبر GitHub إذا كانت لديهم ملاحظات بشأن أي مادة منشورة فيه.
